@@ -1,2 +1,2 @@
-compiledbinary
+compiledbinary/
 .idea/
